@@ -1,5 +1,3 @@
-package queueusingbuiltinlinkedlist;
-
 import java.util.LinkedList;
 
 class LinkedQueue {
