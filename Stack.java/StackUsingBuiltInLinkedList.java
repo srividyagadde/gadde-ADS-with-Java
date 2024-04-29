@@ -1,5 +1,3 @@
-package stackusingbuiltinlinkedlist;
-
 import java.util.LinkedList;
 
 class LinkedStack {
