@@ -1,5 +1,3 @@
-package builtinqueue;
-
 import java.util.ArrayDeque;
 
 public class BuiltInQueue {
