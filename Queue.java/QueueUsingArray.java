@@ -1,5 +1,3 @@
-package queueusingarray;
-
 import java.util.Arrays;
 
 class ArrayQueue {
